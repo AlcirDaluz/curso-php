@@ -44,6 +44,7 @@
                 <h3>Variáveis</h3>
                 <ul>
                     <li><a href="exercise.php?dir=variables&file=basic">Variáveis</a></li>
+                    <li><a href="exercise.php?dir=variables&file=challenge_equation">Desafio Equação</a></li>
                 </ul>
             </div>
         </nav>
