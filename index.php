@@ -46,6 +46,7 @@
                     <li><a href="exercise.php?dir=variables&file=basic">Variáveis</a></li>
                     <li><a href="exercise.php?dir=variables&file=challenge_equation">Desafio Equação</a></li>
                     <li><a href="exercise.php?dir=variables&file=attributions">Atribuições</a></li>
+                    <li><a href="exercise.php?dir=variables&file=interpolation">Interpolação</a></li>
                 </ul>
             </div>
         </nav>
