@@ -17,18 +17,28 @@
 <main class="main">
     <div class="content">
         <nav class="modules">
-            <div class="module green">
-                <h3>Básico</h3>
+            <div class="module purple">
+                <h3>4. Controle</h3>
                 <ul>
-                    <li><a href="exercise.php?dir=basics&file=hello">Olá PHP</a></li>
-                    <li><a href="exercise.php?dir=basics&file=html">Integração HTML</a></li>
-                    <li><a href="exercise.php?dir=basics&file=css">Integração CSS</a></li>
-                    <li><a href="exercise.php?dir=basics&file=comments">Comentários PHP</a></li>
-                    <li><a href="exercise.php?dir=basics&file=challenge">Desafio</a></li>
+                    <li><a href="exercise.php?dir=control&file=if_else">If Else</a></li>
+                </ul>
+            </div>
+            <div class="module blue">
+                <h3>3. Variáveis</h3>
+                <ul>
+                    <li><a href="exercise.php?dir=variables&file=basic">Variáveis</a></li>
+                    <li><a href="exercise.php?dir=variables&file=challenge_equation">Desafio Equação</a></li>
+                    <li><a href="exercise.php?dir=variables&file=attributions">Atribuições</a></li>
+                    <li><a href="exercise.php?dir=variables&file=interpolation">Interpolação</a></li>
+                    <li><a href="exercise.php?dir=variables&file=variables_variables">Variáveis Variáveis</a></li>
+                    <li><a href="exercise.php?dir=variables&file=challenge_variables">Desafio Variáveis Variáveis</a>
+                    </li>
+                    <li><a href="exercise.php?dir=variables&file=value_reference">Valor vs Referência</a></li>
+                    <li><a href="exercise.php?dir=variables&file=constants">Constantes</a></li>
                 </ul>
             </div>
             <div class="module red">
-                <h3>Tipos</h3>
+                <h3>2. Tipos</h3>
                 <ul>
                     <li><a href="exercise.php?dir=types&file=int">Tipo Inteiro</a></li>
                     <li><a href="exercise.php?dir=types&file=float">Tipo Float</a></li>
@@ -40,17 +50,14 @@
                     <li><a href="exercise.php?dir=types&file=conversions">Conversões</a></li>
                 </ul>
             </div>
-            <div class="module blue">
-                <h3>Variáveis</h3>
+            <div class="module green">
+                <h3>1. Básico</h3>
                 <ul>
-                    <li><a href="exercise.php?dir=variables&file=basic">Variáveis</a></li>
-                    <li><a href="exercise.php?dir=variables&file=challenge_equation">Desafio Equação</a></li>
-                    <li><a href="exercise.php?dir=variables&file=attributions">Atribuições</a></li>
-                    <li><a href="exercise.php?dir=variables&file=interpolation">Interpolação</a></li>
-                    <li><a href="exercise.php?dir=variables&file=variables_variables">Variáveis Variáveis</a></li>
-                    <li><a href="exercise.php?dir=variables&file=challenge_variables">Desafio Variáveis Variáveis</a></li>
-                    <li><a href="exercise.php?dir=variables&file=value_reference">Valor vs Referência</a></li>
-                    <li><a href="exercise.php?dir=variables&file=constants">Constantes</a></li>
+                    <li><a href="exercise.php?dir=basics&file=hello">Olá PHP</a></li>
+                    <li><a href="exercise.php?dir=basics&file=html">Integração HTML</a></li>
+                    <li><a href="exercise.php?dir=basics&file=css">Integração CSS</a></li>
+                    <li><a href="exercise.php?dir=basics&file=comments">Comentários PHP</a></li>
+                    <li><a href="exercise.php?dir=basics&file=challenge">Desafio</a></li>
                 </ul>
             </div>
         </nav>
