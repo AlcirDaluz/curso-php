@@ -21,6 +21,7 @@
                 <h3>4. Controle</h3>
                 <ul>
                     <li><a href="exercise.php?dir=control&file=if_else">If Else</a></li>
+                    <li><a href="exercise.php?dir=control&file=relational_operators">Operadores Relacionais</a></li>
                 </ul>
             </div>
             <div class="module blue">
