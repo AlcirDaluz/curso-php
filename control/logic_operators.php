@@ -1,7 +1,7 @@
 <div class="title">Operadores Lógicos</div>
 
 <?php
-echo "<p>V ou F</p><hr>";
+echo "<p>Negação Lógica</p><hr>";
 var_dump(true);
 echo '<br>';
 var_dump(!true); // not
