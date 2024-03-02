@@ -24,6 +24,7 @@
                     <li><a href="exercise.php?dir=control&file=relational_operators">Operadores Relacionais</a></li>
                     <li><a href="exercise.php?dir=control&file=challenge_pi">Desafio PI</a></li>
                     <li><a href="exercise.php?dir=control&file=logic_operators">Operadores Lógicos</a></li>
+                    <li><a href="exercise.php?dir=control&file=challenge_logic_operators">Desafio Operadores Lógicos</a></li>
                 </ul>
             </div>
             <div class="module blue">
