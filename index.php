@@ -17,6 +17,12 @@
 <main class="main">
     <div class="content">
         <nav class="modules">
+            <div class="module orange">
+                <h3>5. Array</h3>
+                <ul>
+                    <li><a href="exercise.php?dir=array&file=basic">Array</a></li>
+                </ul>
+            </div>
             <div class="module purple">
                 <h3>4. Controle</h3>
                 <ul>
