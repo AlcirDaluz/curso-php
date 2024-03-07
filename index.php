@@ -21,6 +21,7 @@
                 <h3>5. Array</h3>
                 <ul>
                     <li><a href="exercise.php?dir=array&file=basic">Array</a></li>
+                    <li><a href="exercise.php?dir=array&file=map">Mapa</a></li>
                 </ul>
             </div>
             <div class="module purple">
