@@ -22,6 +22,7 @@
                 <ul>
                     <li><a href="exercise.php?dir=array&file=basic">Array</a></li>
                     <li><a href="exercise.php?dir=array&file=map">Mapa</a></li>
+                    <li><a href="exercise.php?dir=array&file=challenge_index">Desafio Index</a></li>
                 </ul>
             </div>
             <div class="module purple">
