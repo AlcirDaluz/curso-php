@@ -24,6 +24,7 @@
                     <li><a href="exercise.php?dir=array&file=map">Mapa</a></li>
                     <li><a href="exercise.php?dir=array&file=challenge_index">Desafio Index</a></li>
                     <li><a href="exercise.php?dir=array&file=challenge_months">Desafio Meses</a></li>
+                    <li><a href="exercise.php?dir=array&file=operations">Operações</a></li>
                 </ul>
             </div>
             <div class="module purple">
