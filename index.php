@@ -26,6 +26,7 @@
                     <li><a href="exercise.php?dir=array&file=challenge_months">Desafio Meses</a></li>
                     <li><a href="exercise.php?dir=array&file=operations">Operações</a></li>
                     <li><a href="exercise.php?dir=array&file=challenge_draw">Desafio Sorteio</a></li>
+                    <li><a href="exercise.php?dir=array&file=multi">Multidimensionais</a></li>
                 </ul>
             </div>
             <div class="module purple">
