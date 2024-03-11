@@ -28,6 +28,7 @@
                     <li><a href="exercise.php?dir=array&file=challenge_draw">Desafio Sorteio</a></li>
                     <li><a href="exercise.php?dir=array&file=multi">Multidimensionais</a></li>
                     <li><a href="exercise.php?dir=array&file=constants">Arrays Constantes</a></li>
+                    <li><a href="exercise.php?dir=array&file=get">$_GET</a></li>
                 </ul>
             </div>
             <div class="module purple">
