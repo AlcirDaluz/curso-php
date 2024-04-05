@@ -21,6 +21,7 @@
                 <h3>6. Repetições</h3>
                 <ul>
                     <li><a href="exercise.php?dir=repetitions&file=for">Laço For</a></li>
+                    <li><a href="exercise.php?dir=repetitions&file=desafio_for">Desafio For</a></li>
                 </ul>
             </div>
             <div class="module orange">
