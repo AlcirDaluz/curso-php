@@ -25,4 +25,26 @@ if ($idade < 18) {
 } else {
     echo "Idoso = $idade anos<br>";
 }
+
+echo '<p>Spaceship</p><hr>';
+echo var_dump(500 <=> 3) . '<br>'; // Quando o operando da esquerda for maior que o operando da direita, o retorno será true (1), independente 
+//da diferença entre ambos.
+echo var_dump(50 <=> 50) . '<br>'; // Números iguais retorna 0.
+var_dump(5 <=> 50); // Número da direita maior que o número da esquerda retorna false (-1).
+
+echo '<p>Valores podem ser V ou F</p><hr>';
+echo var_dump(!!5) . '<br>';
+echo var_dump(!!0) . '<br>';
+echo var_dump(!!"") . '<br>';
+echo var_dump(!!" ") . '<br>';
 ?>
+
+<style>
+    p {
+        margin-bottom: 0px;
+    }
+
+    hr {
+        margin-top: 0px;
+    }
+</style>
